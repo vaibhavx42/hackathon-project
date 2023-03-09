@@ -40,6 +40,9 @@ The Mangalavya is an **RFID Based Restaurant Food Ordering System** ,initially m
 
 <h2 align="left" >  Technologies Used:</h2>
 
+### View
+![ss](https://user-images.githubusercontent.com/110530263/223948927-0a273f58-187f-47b7-952b-ca19c6c641c4.png)
+
 <h3 align="left" > TOOLS</h3>
 
 - [PYCHARM](https://www.jetbrains.com/pycharm/) : PYCHARM IS AN IDE USED FOR THIS.<br>
@@ -55,6 +58,7 @@ The Mangalavya is an **RFID Based Restaurant Food Ordering System** ,initially m
 <!-- CONTACT -->
 <h2 align="left" > Contact</h2>
 <p>
+
    
 📫 You can contact the team Corex Revise [here](https://linktr.ee/corex_revise)  
    
